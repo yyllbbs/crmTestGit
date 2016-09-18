@@ -10,7 +10,7 @@ public class HelloGitHubEclipse {
 		int b = 3;
 		int c = 4;
 		int d = 5;
-		int f = 7;
+		int e = 7;
 	
 	}
 }
