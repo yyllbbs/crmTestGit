@@ -7,5 +7,6 @@ public class HelloGitHubEclipse {
 		System.out.println("test Egit");
 		System.out.println("sanyan");
 		int a = 2;
+		int b = 3;
 	}
 }
