@@ -11,6 +11,7 @@ public class HelloGitHubEclipse {
 		int c = 4;
 		int d = 5;
 		int e = 7;
+		int f = 7;
 	
 	}
 }
