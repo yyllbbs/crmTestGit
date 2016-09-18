@@ -13,5 +13,6 @@ public class HelloGitHubEclipse {
 		int e = 7;
 		int f = 7;
 	
+		System.out.println(a + b);
 	}
 }
