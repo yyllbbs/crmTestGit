@@ -8,5 +8,6 @@ public class HelloGitHubEclipse {
 		System.out.println("sanyan");
 		int a = 2;
 		int b = 3;
+		int c = 4;
 	}
 }
